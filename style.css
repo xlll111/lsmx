@@ -1,7 +1,7 @@
 /* -------------------------------- 
 
 Primary style
-ºÎÎÊÆð
+ÂºÃŽÃŽÃŠÃ†Ã°
 http://hovertree.com
 -------------------------------- */
 *, *::after, *::before {
@@ -45,7 +45,7 @@ Main Components
 -------------------------------- */
 main {
   position: relative;
-  z-index: 2;
+  z-index: 3;
   /* fix bug on iOS */
   height: 100vh;
   overflow-y: auto;
